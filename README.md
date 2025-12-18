@@ -32,13 +32,11 @@
 
 ## 🧠 Sobre mí
 
-- 🛠️ Me especializo en **Java** y **C#** para el desarrollo backend.
-- 📱 Desarrollador Android con enfoque nativo (**Java**, MVVM, ViewBinding, LiveData).
-- ☁️ Uso **Firebase** para autenticación y base de datos en tiempo real.
-- 🔒 Trabajo con **JWT** para autenticación segura y control de acceso.
-- 🧩 Diseño mis apps usando **Clean Architecture**, **Repository Pattern**, **CQRS** y **principios SOLID**.
-- 🐳 Automatizo y despliego con **Docker**.
-- 💡 Me gusta escribir código **claro**, **mantenible** y **escalable**.
+¡Hola! 🤟 Me llamo Isaac Martín y soy un apasionado de la tecnología. Desde bien pequeñito ya estaba delante de un monitor CRT, ya fuera jugando a videojuegos en consola o trasteando en las entrañas de un Pentium con Windows 95, que por supuesto no era mío. Desde entonces siempre he mostrado un fuerte interés por todo lo tecnológico.
+
+Aunque mi carrera profesional haya girado en torno a la Psicología Deportiva, donde he tenido la suerte de trabajar con importantes organizaciones de esports a nivel nacional e internacional, nunca perdí la oportunidad de aprender y profundizar en conceptos informáticos.
+
+Es desde hace unos años que me dedico profesionalmente en cuerpo y alma a este sector lleno de infinitas posibilidades, desarrollando tanto para mí como para clientes que necesitan soluciones digitales a sus necesidades de negocio.
 
 ---
 
